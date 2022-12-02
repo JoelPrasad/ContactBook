@@ -1,0 +1,5 @@
+com\joelprasad\contactbook\controller\userController.class
+com\joelprasad\contactbook\service\userService.class
+com\joelprasad\contactbook\ContactbookApplication.class
+com\joelprasad\contactbook\model\userModel.class
+com\joelprasad\contactbook\repository\userRepository.class
